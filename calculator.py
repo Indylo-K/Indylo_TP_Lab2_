@@ -11,4 +11,4 @@ if __name__ == "__main__":
     print(f"{num1} + {num2} = {add(num1, num2)}")
     print(f"{num1} - {num2} = {subtract(num1, num2)}")
     # Тут немає виклику multiply!
-    print("Виправлено текст повідомлення у main.") # Змінений той самий рядок
+    print("Виправлено текст повідомлення у main.") # результат
